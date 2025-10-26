@@ -7,7 +7,7 @@ linkedin: andres-rincon-martinez
 location: Bogotá, Colombia
 
 about: >
-  Industrial Engineer with over 4 years of experience designing high-end furniture for the North American market. Specialized in Autodesk Inventor, AutoCAD, and AlfaCAD, with expertise in CNC machining workflows, laser scanning, and component standardization. Skilled in process optimization, software development, and data analytics applied to industrial environments.
+  Industrial Engineer with over 4 years of experience designing high-end furniture for the North American market. Specialized in Autodesk Inventor, AutoCAD, and AlfaCAD, with expertise in CNC machining workflows, laser scanning, and component standardization. Skilled in process optimization, software development, and data analytics applied to industrial environments. Proven ability to translate complex 3D models into precise machining instructions, ensuring quality, efficiency, and aesthetic excellence.
 
 education:
   - degree: Technologist in Software Analysis & Development
@@ -33,7 +33,41 @@ experience:
     details: >
       Increased client portfolio by 35% and retention by 30%. Managed tech budgets and led IT project delivery.
 
-  # Agrega aquí los demás roles siguiendo el mismo formato
+  - role: Production Consultant
+    company: Flor Guajira Swimwear
+    year: 2017–2021
+    details: >
+      Reduced production time by 25% and costs by 32%. Led supply chain and commercial strategy for retail expansion.
+
+  - role: Twind Human Talent Verifier & Internal Auditor
+    company: Constructora Tukano
+    year: 2025
+    details: >
+      Improved operator selection process by 40%, reducing equipment misuse. Automated training coordination and optimized process mapping.
+
+  - role: IT Assistant
+    company: COFACE
+    year: 2014
+    details: >
+      Reduced technical incidents by 40%. Trained staff and improved system documentation.
+
+  - role: Senior Consultant – Fresenius Medical Care Project
+    company: THT
+    year: 2013–2014
+    details: >
+      Conducted time-motion studies and improved resource allocation. Delivered operational efficiency reports and implemented improvements.
+
+  - role: Product Design Engineer
+    company: INTECPLAST Ltda.
+    year: 2008
+    details: >
+      Developed products with 100% prototype acceptance. Ensured quality control and client satisfaction.
+
+  - role: Design Assistant
+    company: IMA S.A.
+    year: 2003–2006
+    details: >
+      Reduced plant errors by 70% through design standardization. Created replicable design systems adopted company-wide.
 
 skills:
   - skill: Autodesk Inventor
@@ -41,9 +75,11 @@ skills:
   - skill: AlfaCAD
   - skill: SolidWorks
   - skill: HTML, CSS, JavaScript
-  - skill: Power BI, Excel avanzado
   - skill: Node.js, APIs REST
   - skill: SQL, R, DAX
+  - skill: Power BI, Excel avanzado
+  - skill: Microsoft Project
+  - skill: Agile methodologies (Scrum)
 
 languages:
   - language: Spanish
@@ -55,8 +91,10 @@ certifications:
   - certification: Google Data Analytics
   - certification: Full Stack Development (Henry)
   - certification: Microsoft Power BI, Azure DP-900
+  - certification: Junior Software Development – MinTIC / UNAB
+  - certification: Junior Data Analytics – Microsoft / Bext S.A.
   - certification: Lead Auditor HSEQ – TÜV Rheinland
-
+  - certification: Internal Auditor HSEQ – Bureau Veritas
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
