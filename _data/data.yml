@@ -1,3 +1,62 @@
+name: Andrés Rincón Martínez
+tagline: Industrial Engineer | CAD/CAM Designer | CNC Programmer
+email: quiron9182@gmail.com
+phone: "+57 315 845 5433"
+website: "https://linkedin.com/in/andres-rincon-martinez"
+linkedin: andres-rincon-martinez
+location: Bogotá, Colombia
+
+about: >
+  Industrial Engineer with over 4 years of experience designing high-end furniture for the North American market. Specialized in Autodesk Inventor, AutoCAD, and AlfaCAD, with expertise in CNC machining workflows, laser scanning, and component standardization. Skilled in process optimization, software development, and data analytics applied to industrial environments.
+
+education:
+  - degree: Technologist in Software Analysis & Development
+    university: SENA
+    year: 2025
+  - degree: Specialization in Energy Planning
+    university: Universidad Autónoma de Colombia
+    year: 2013
+  - degree: BSc in Industrial Engineering
+    university: Universidad Autónoma de Colombia
+    year: 2011
+
+experience:
+  - role: Front-End Developer
+    company: National Library of Colombia
+    year: 2024
+    details: >
+      Developed adaptive web solutions and API integrations. Improved resource utilization by 20% through system optimization.
+
+  - role: Product & Commercial Relations Manager
+    company: PC Fixer ARM
+    year: 2021–2024
+    details: >
+      Increased client portfolio by 35% and retention by 30%. Managed tech budgets and led IT project delivery.
+
+  # Agrega aquí los demás roles siguiendo el mismo formato
+
+skills:
+  - skill: Autodesk Inventor
+  - skill: AutoCAD
+  - skill: AlfaCAD
+  - skill: SolidWorks
+  - skill: HTML, CSS, JavaScript
+  - skill: Power BI, Excel avanzado
+  - skill: Node.js, APIs REST
+  - skill: SQL, R, DAX
+
+languages:
+  - language: Spanish
+    level: Native
+  - language: English
+    level: Intermediate – ILAC Canada
+
+certifications:
+  - certification: Google Data Analytics
+  - certification: Full Stack Development (Henry)
+  - certification: Microsoft Power BI, Azure DP-900
+  - certification: Lead Auditor HSEQ – TÜV Rheinland
+
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
